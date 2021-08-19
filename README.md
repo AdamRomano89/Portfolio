@@ -13,7 +13,7 @@ Personal Portfolio: [http://adamromano.net/]
 - CSS
 
 # Project Visual :sunglasses:
-![Project-Picture](./assets/Images/Mockup.png)
+![Project-Picture](assets/images/Mockup.png)
 
 ## Authors, Acknowledgement, & Resources 🤝
 
