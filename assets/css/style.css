@@ -221,23 +221,19 @@ main {
 }
 
 .horiseon {
-    background-image: url("../images/Mockup.png");
+    background-image: url("../images/horiseon.png");
 }
 
 .portfolio {
     background-image: url("../images/portfolio.png");
 }
 
-.about {
-    background-image: url("../images/about.png");
+.hacker {
+    background-image: url("../images/hacker.jpeg");
 }
 
-.odds {
-    background-image: url("../images/odds.png"); 
-}
-
-.games {
-    background-image: url("../images/games.png"); 
+.password {
+    background-image: url("../images/password.png"); 
 }
 
 /* Contact Section */
@@ -322,7 +318,7 @@ footer  {
 }
 
 /* Max Width 768px*/
-/@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .grid-item,
     .grid-item:first-child {
         grid-column: 1 / -1;
