@@ -89,7 +89,8 @@ main {
     margin-bottom: 45px;
 }
 
-.light {
+.light{
+    color: var(--primary);
 }
 /* Hero Content */
 .hero-banner {
@@ -321,7 +322,7 @@ footer  {
 }
 
 /* Max Width 768px*/
-@media screen and (max-width: 768px) {
+/@media screen and (max-width: 768px) {
     .grid-item,
     .grid-item:first-child {
         grid-column: 1 / -1;
