@@ -1,7 +1,5 @@
 
 /* PORTFOLIO CSS STYLES*/
-
-
 * {
     box-sizing: border-box;
 }
@@ -89,9 +87,6 @@ main {
     margin-bottom: 45px;
 }
 
-.light{
-    color: var(--primary);
-}
 /* Hero Content */
 .hero-banner {
     background: rgb(68, 88, 120);
