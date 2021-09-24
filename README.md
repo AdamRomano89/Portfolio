@@ -16,6 +16,4 @@ Personal Portfolio: [http://adamromano.net/]
 ![Project-Picture](assets/images/portfolio.png)
 
 ## Authors, Acknowledgement, & Resources 🤝
-
-### Teaching Crew at UT Coding Bootcamp 🎉
-[Bootcamp Program](https://techbootcamps.utexas.edu/coding/)
+##### Adam Romano
