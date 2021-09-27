@@ -223,12 +223,12 @@ main {
     background-image: url("../images/portfolio.png");
 }
 
-.hacker {
-    background-image: url("../images/hacker.jpeg");
+.recipe {
+    background-image: url("../images/recipe.png");
 }
 
-.password {
-    background-image: url("../images/password.png"); 
+.weather {
+    background-image: url("../images/weather.png"); 
 }
 
 /* Contact Section */
